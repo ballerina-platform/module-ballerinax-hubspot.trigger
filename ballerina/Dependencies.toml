@@ -362,9 +362,3 @@ modules = [
 	{org = "ballerinax", packageName = "hubspot.trigger", moduleName = "hubspot.trigger"}
 ]
 
-[[tool]]
-id = "asyncapi"
-org = "ballerina"
-name = "tool.asyncapi"
-version = "0.13.3"
-
